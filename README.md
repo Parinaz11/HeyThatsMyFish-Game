@@ -3,11 +3,12 @@ A simple version of the game "Hey That's My Fish" coded with C.
 
 The C code is written in Dev-C++ using Allegro graphics library.
 
+## How to Play
+
 The user chooses between 2, 3 and 4 player modes and based on the choice, 4, 3 or 2 penguins are assigned to each user.
 
 After that an empty game board appears in which each player has to choose where they to put their penguins and it permits users from putting penguin in a spot where another player has already taken.
 
-## Rules
 The penguins can move on the board from square to square and collect fish from the squares they step on.
 
 When a penguin steps on a square, it would take the square for itself and after the penguins moves to another one, it will turn to ice so no other player can use it again.
